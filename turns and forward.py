@@ -8,14 +8,13 @@ Ed.Tempo = Ed.TEMPO_MEDIUM
 
 #--------Your code below-----------
 
-
-# Moverse hacia adelante
+# Move forward
 Ed.Drive(Ed.FORWARD, Ed.SPEED_5, 4) 
-# Girar hacia la izquierda 
+# Turn left
 Ed.Drive(Ed.SPIN_LEFT, Ed.SPEED_5, 80)
-#Hacia adelante
+# Move forward
 Ed.Drive(Ed.FORWARD, Ed.SPEED_5, 3) 
-# Enderezarse 
+# Straighten up
 Ed.Drive(Ed.SPIN_RIGHT, Ed.SPEED_5, 80)
-# Hacia adelante
-Ed.Drive(Ed.FORWARD, Ed.SPEED_5, 6) 
+# Move forward
+Ed.Drive(Ed.FORWARD, Ed.SPEED_5, 6)
