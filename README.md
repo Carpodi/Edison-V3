@@ -1,11 +1,11 @@
 # Edison V3 Robot Codes
 
-This repository contains various example codes to program and control the **Edison V3** robot. This codes are on EddPY V3 Version.
+This repository contains various example codes to program and control the **Edison V3** robot. This codes are on EdPY V3 Version.
 
 ## Repository Structure
 The repository contains the following files:
 
-- **../EddPY/FORWARD_EXAMPLE.py**: This file is the example of a basic commands that indicates the robot to forward..
+- **../EdPY/FORWARD_EXAMPLE.py**: This file is the example of a basic commands that indicates the robot to forward..
 - 
 ## Usage
 
