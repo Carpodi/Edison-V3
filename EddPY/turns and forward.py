@@ -18,3 +18,5 @@ Ed.Drive(Ed.FORWARD, Ed.SPEED_5, 3)
 Ed.Drive(Ed.SPIN_RIGHT, Ed.SPEED_5, 80)
 # Move forward
 Ed.Drive(Ed.FORWARD, Ed.SPEED_5, 6)
+
+# --- Made by Carpodi | carpodi.is-a.dev ---
