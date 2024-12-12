@@ -18,6 +18,6 @@ The repository contains the following files:
    ```
    # Credits:
 
-   [Carpodi] (https://carpodi.is-a.dev)
+   [Carpodi](https://carpodi.is-a.dev)
 
    
