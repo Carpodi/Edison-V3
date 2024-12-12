@@ -32,3 +32,4 @@ Ed.Drive(Ed.SPIN_RIGHT, Ed.SPEED_6, 100)
 Ed.Drive(Ed.FORWARD, Ed.SPEED_6, 30)
 Ed.Drive(Ed.SPIN_LEFT, Ed.SPEED_6, 105)
 Ed.Drive(Ed.FORWARD, Ed.SPEED_10, 40)
+# --- Made by Carpodi | carpodi.is-a.dev ---
