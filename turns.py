@@ -8,14 +8,14 @@ Ed.Tempo = Ed.TEMPO_MEDIUM
 
 #--------Your code below-----------
 
-# Gira 90 grados a la derecha desde el punto 0
+# Turn 90 degrees to the right from point 0
 Ed.Drive(Ed.SPIN_RIGHT, Ed.SPEED_5, 90)  
 
-# Gira 90 grados para volver al punto 0
+# Turn 90 degrees to return to point 0
 Ed.Drive(Ed.SPIN_LEFT, Ed.SPEED_5, 90) 
 
-# Gira 180 grados a la izquierda
+# Turn 180 degrees to the left
 Ed.Drive(Ed.SPIN_LEFT, Ed.SPEED_5, 180)  
 
-# Gira 180 grados para volver al punto 0
-Ed.Drive(Ed.SPIN_RIGHT, Ed.SPEED_5, 180)  
+# Turn 180 degrees to return to point 0
+Ed.Drive(Ed.SPIN_RIGHT, Ed.SPEED_5, 180)
