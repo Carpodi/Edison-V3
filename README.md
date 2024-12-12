@@ -1,4 +1,4 @@
-# Eddison V3 Robot Codes
+# Edison V3 Robot Codes
 
 This repository contains various example codes to program and control the **Edison V3** robot. This codes are on EddPY V3 Version.
 
